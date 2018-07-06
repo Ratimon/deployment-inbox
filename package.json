@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ratimon/deployment-inbox/issues"
   },
-  "homepage": "https://github.com/Ratimon/deployment-inbox#readme"
+  "homepage": "https://github.com/Ratimon/deployment-inbox#readme",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
 }
