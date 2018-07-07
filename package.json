@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Ratimon/deployment-inbox#readme",
   "dependencies": {
-    "solc": "^0.4.24"
+    "fs-promise": "^2.0.3",
+    "ganache-cli": "^6.1.5",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.26"
   }
 }
