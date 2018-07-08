@@ -1,5 +1,9 @@
 # deployment-inbox
 
+#  Purpose
+
+Connect to Rinkby network
+
 #  Installation
 
 1. Install dependencies for testing and development net work:
@@ -12,5 +16,11 @@
     ```
 3. This allow us to connect to rinkby network
     ```
-    npm install --python=python2.7 --save truffle-hdwallet-provider
+    npm install --python=python2.7 --save truffle-hdwallet-provider@0.0.3
+    ```
+
+Deployed contract address
+
+    ```
+    0xACf91362a00917B37A739C78Aa2B92B36872d333
     ```
