@@ -19,8 +19,9 @@ Connect to Rinkby network
     npm install --python=python2.7 --save truffle-hdwallet-provider@0.0.3
     ```
 
-Deployed contract address
+Deployed contract address (can be checked at rinkeby.etherscan.io or remix.ethereum.org)
 
     ```
     0xACf91362a00917B37A739C78Aa2B92B36872d333
     ```
+
